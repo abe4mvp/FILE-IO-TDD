@@ -7,5 +7,7 @@ FILE-IO-TDD
 
 <p>example and solution file already included, the spec run the script, generate a file and compare to the solution file</p>
 
-<p>You can also test the code indivdually by running the following:<p>
+<p>You can also test the code indivdually by running the following:</p>
 	ruby lib/last_names.rb "your_file_name.txt"
+
+	
