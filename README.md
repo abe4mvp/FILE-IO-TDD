@@ -1,13 +1,13 @@
 FILE-IO-TDD
 ===========
 
-<p>run this command to execute test</p>
+<p>With Rspec: execute tests using example.txt</p>
 
-	rspec spec/last_names_spec.rb
+	rspec frequency_hash.rb
 
 <p>example and solution file already included, the spec will run the script, generate a file and compare to the solution file</p>
 
-<p>You can also test the code indivdually by running the following:</p>
-	ruby lib/last_names.rb "your_file_name.txt"
+<p>To Run the code as a script with an input file</p>
+	ruby frequency_hash.rb "your_file_name.txt"
 
 	

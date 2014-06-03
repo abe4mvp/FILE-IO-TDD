@@ -1,5 +1,3 @@
-Alba
-Hanks
-Jolie
-Saldana
-Smith
+apple 3
+monitor 2
+lorem 2
