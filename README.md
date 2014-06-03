@@ -1,4 +1,4 @@
-FILE-IO-TDD
+Frequency Hash Creator
 ===========
 
 <p>With Rspec: execute tests using example.txt</p>
