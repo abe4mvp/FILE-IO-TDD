@@ -3,7 +3,7 @@ FILE-IO-TDD
 
 <p>With Rspec: execute tests using example.txt</p>
 
-	rspec frequency_hash.rb
+	rspec frequency_hash_spec.rb
 
 <p>example and solution file already included, the spec will run the script, generate a file and compare to the solution file</p>
 
